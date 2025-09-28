@@ -1,8 +1,9 @@
 # 👋 Ciao, sono Alban!  
 
 ### 🚀 Chi sono  
-Sono un **ingegnere informatico** appassionato di  **sviluppo software** e **tecnologie open-source**.  
-Amo trasformare idee in progetti concreti, combinando **hardware e software** per creare soluzioni innovative.  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+Sono un **ingegnere informatico** con interesse per lo **sviluppo software** e le **tecnologie open-source**.  
+Mi piace costruire applicazioni pratiche che uniscono **usabilità** e **innovazione**.  
 
 ---
 
@@ -27,11 +28,20 @@ Amo trasformare idee in progetti concreti, combinando **hardware e software** pe
 ---
 
 ### 🎯 Progetti in evidenza  
-1. **[Voice Assistant](https://github.com/albanz27/Voice_Assistant)** – *Assistente Vocale Virtuale con ElevenLabs, che ti ascolta, comprende e ti risponde in real time*  
-2. **[Forum Online](https://github.com/guido-7/SWE_project)** – *Creazione di un forum online stile reddit in cui si può interagire con altri utenti, entrare nelle community, postare, interagire con i post e tanto altro*  
+1. **[Voice Assistant](https://github.com/albanz27/Voice_Assistant)**  
+   🗣️ *Assistente vocale in real-time con ElevenLabs*  
+
+2. **[Forum Online](https://github.com/guido-7/SWE_project)**  
+   💬 *Forum stile Reddit per community e interazioni social*  
 
 ---
 
+### 📚 Sto imparando...
+- Sviluppo di API REST con Node.js  
+- Ottimizzazione di sistemi distribuiti  
+- Intelligenza Artificiale applicata a progetti reali  
+
+---
 
 ### 📫 Contatti  
 - 💼 [LinkedIn](https://www.linkedin.com/in/alban-haka-2a4934358/)  
