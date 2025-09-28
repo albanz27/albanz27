@@ -1,50 +1,45 @@
 # 👋 Ciao, sono Alban!  
 
-### **🚀 Chi sono**  
-[Breve introduzione su di te: ruolo, passioni, obiettivi. Esempio:]  
-*"Sono un ingegnere informatico appassionato di ..., con un focus su [FPGA/RTOS/altro]. Amo trasformare idee in progetti concreti, combinando hardware e software."*  
+### 🚀 Chi sono  
+Sono un **ingegnere informatico** appassionato di  **sviluppo software** e **tecnologie open-source**.  
+Amo trasformare idee in progetti concreti, combinando **hardware e software** per creare soluzioni innovative.  
 
 ---
 
-### **🛠️ Competenze**  
-#### **💻 Programmazione**  
-[Linguaggi/strumenti principali, es.:]  
-- **C/C++**  
-- **Python**
-- **Java**
-- **HTML/CSS/Javascript/PHP**
+### 🛠️ Competenze  
 
-#### **⚡ Hardware**  
-- Arduino 
-- Raspberry 
+#### 💻 Programmazione  
+![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
+![Web](https://img.shields.io/badge/-HTML/CSS/JS/PHP-orange?logo=javascript&logoColor=white)
 
-#### **🔧 Strumenti**  
-- Git · Docker · VS Code 
+#### ⚡ Hardware  
+- Arduino  
+- Raspberry Pi  
 
----
-
-### **🎯 Progetti in evidenza**  
-[Lista con link ai repository, es.:]  
-1. **[Nome Progetto](link)** – Breve descrizione (es.: *"Driver per sensore LiDAR su FPGA con soft-core RISC-V"*)  
-2. **[Nome Progetto](link)** – *"Sistema di acquisizione dati real-time con FreeRTOS"*  
+#### 🔧 Strumenti  
+![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
 
 ---
 
-### **📚 Sto imparando...**  
-[Argomenti di interesse attuale, es.:]  
-- Ottimizzazione firmware per low-power  
-- Architetture RISC-V  
-- Machine learning su edge device  
+### 🎯 Progetti in evidenza  
+1. **[Voice Assistant](https://github.com/albanz27/Voice_Assistant)** – *Assistente Vocale Virtuale con ElevenLabs, che ti ascolta, comprende e ti risponde in real time*  
+2. **[Forum Online]([link](https://github.com/guido-7/SWE_project))** – *Creazione di un forum online stile reddit in cui si può interagire con altri utenti, entrare nelle community, postare, interagire con i post e tanto altro*  
 
 ---
 
-### **📫 Contatti**  
-[Come raggiungerti, es.:]  
-- 💼 LinkedIn: [linkedin.com/in/alban-haka](https://www.linkedin.com/in/alban-haka-2a4934358/)  
-- 🌐 Instagram: [tuosito.com](link)  
+
+### 📫 Contatti  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alban-haka-2a4934358/)  
+- 🌐 [Instagram](https://instagram.com/albanhaka__)  
 
 ---
 
-### **📊 Statistiche GitHub**  
- 
+### 📊 Statistiche GitHub  
+
 ![Le tue stats](https://github-readme-stats.vercel.app/api?username=albanz27&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albanz27&layout=compact&theme=radical)  
