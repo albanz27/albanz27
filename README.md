@@ -1,30 +1,25 @@
-# 👋 Ciao, sono [Il Tuo Nome]!  
+# 👋 Ciao, sono Alban!  
 
 ### **🚀 Chi sono**  
 [Breve introduzione su di te: ruolo, passioni, obiettivi. Esempio:]  
-*"Sono un appassionato di [elettronica embedded/informatica/robotica], con un focus su [FPGA/RTOS/altro]. Amo trasformare idee in progetti concreti, combinando hardware e software."*  
+*"Sono un ingegnere informatico appassionato di ..., con un focus su [FPGA/RTOS/altro]. Amo trasformare idee in progetti concreti, combinando hardware e software."*  
 
 ---
 
 ### **🛠️ Competenze**  
 #### **💻 Programmazione**  
 [Linguaggi/strumenti principali, es.:]  
-- **C/C++** (embedded, microcontroller)  
-- **Python** (scripting, automazione)  
-- **VHDL/Verilog** (FPGA design)  
-- **Bash/Linux**  
+- **C/C++**  
+- **Python**
+- **Java**
+- **HTML/CSS/Javascript/PHP**
 
 #### **⚡ Hardware**  
-[Competenze tecniche, es.:]  
-- Progettazione PCB (KiCad, Altium)  
-- Microcontroller (STM32, ESP32)  
-- FPGA (Xilinx, Intel Quartus)  
-- RTOS (FreeRTOS, Zephyr)  
+- Arduino 
+- Raspberry 
 
 #### **🔧 Strumenti**  
-[Tool preferiti, es.:]  
-- Git · Docker · VS Code · PlatformIO  
-- Oscilloscopi · Logic Analyzer  
+- Git · Docker · VS Code 
 
 ---
 
@@ -45,12 +40,11 @@
 
 ### **📫 Contatti**  
 [Come raggiungerti, es.:]  
-- ✉️ Email: [tua@email.com](mailto:tua@email.com)  
-- 💼 LinkedIn: [linkedin.com/in/tuo-profilo](link)  
-- 🌐 Sito web: [tuosito.com](link)  
+- 💼 LinkedIn: [linkedin.com/in/alban-haka](https://www.linkedin.com/in/alban-haka-2a4934358/)  
+- 🌐 Instagram: [tuosito.com](link)  
 
 ---
 
 ### **📊 Statistiche GitHub**  
-(opzionale, aggiungi con [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))  
-![Le tue stats](https://github-readme-stats.vercel.app/api?username=tua-username&show_icons=true&theme=radical)  
+ 
+![Le tue stats](https://github-readme-stats.vercel.app/api?username=albanz27&show_icons=true&theme=radical)  
