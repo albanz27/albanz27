@@ -33,7 +33,10 @@ Mi piace imparare continuamente trasformando idee in progetti concreti e costrui
    🗣️ *Assistente vocale in real-time con ElevenLabs*  
 
 2. **[Forum Online](https://github.com/guido-7/SWE_project)**  
-   💬 *Forum stile Reddit per community e interazioni social*  
+   💬 *Forum stile Reddit per community e interazioni social*
+
+3. **[CSP](https://github.com/albanz27/AI_project)**  
+   🧩 *Modello di soddisfacimento dei vincoli (negozi e magazzini)*
 
 
 ---
