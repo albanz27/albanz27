@@ -28,7 +28,7 @@ Amo trasformare idee in progetti concreti, combinando **hardware e software** pe
 
 ### 🎯 Progetti in evidenza  
 1. **[Voice Assistant](https://github.com/albanz27/Voice_Assistant)** – *Assistente Vocale Virtuale con ElevenLabs, che ti ascolta, comprende e ti risponde in real time*  
-2. **[Forum Online]([link](https://github.com/guido-7/SWE_project))** – *Creazione di un forum online stile reddit in cui si può interagire con altri utenti, entrare nelle community, postare, interagire con i post e tanto altro*  
+2. **[Forum Online](https://github.com/guido-7/SWE_project)** – *Creazione di un forum online stile reddit in cui si può interagire con altri utenti, entrare nelle community, postare, interagire con i post e tanto altro*  
 
 ---
 
