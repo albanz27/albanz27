@@ -1,7 +1,7 @@
 # 👋 Ciao, sono Alban!  
 
 ### 🚀 Chi sono  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
 Sono un **ingegnere informatico** con interesse per lo **sviluppo software** e le **tecnologie open-source**.  
 Mi piace costruire applicazioni pratiche che uniscono **usabilità** e **innovazione**.  
 
