@@ -29,13 +29,16 @@ Mi piace imparare continuamente trasformando idee in progetti concreti e costrui
 ---
 
 ### 🎯 Progetti in evidenza  
-1. **[Voice Assistant](https://github.com/albanz27/Voice_Assistant)**  
-   🗣️ *Assistente vocale in real-time con ElevenLabs*  
+1. **[DocSeek](https://github.com/albanz27/DocSeek)**  
+   🤖🔎 *Motore di Ricerca Intelligente di Documenti*  
 
 2. **[Forum Online](https://github.com/guido-7/SWE_project)**  
    💬 *Forum stile Reddit per community e interazioni social*
 
-3. **[CSP](https://github.com/albanz27/AI_project)**  
+3. **[Voice Assistant](https://github.com/albanz27/Voice_Assistant)**  
+   🗣️ *Assistente vocale in real-time con ElevenLabs*  
+
+4. **[CSP](https://github.com/albanz27/AI_project)**  
    🧩 *Modello di soddisfacimento dei vincoli (negozi e magazzini)*
 
 
@@ -51,10 +54,3 @@ Mi piace imparare continuamente trasformando idee in progetti concreti e costrui
 ### 📫 Contatti  
 - 💼 [LinkedIn](https://www.linkedin.com/in/alban-haka-2a4934358/)  
 - 🌐 [Instagram](https://instagram.com/albanhaka__)  
-
----
-
-### 📊 Statistiche GitHub  
-
-![Le tue stats](https://github-readme-stats.vercel.app/api?username=albanz27&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albanz27&layout=compact&theme=radical)  
