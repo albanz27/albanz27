@@ -44,12 +44,6 @@ Mi piace imparare continuamente trasformando idee in progetti concreti e costrui
 
 ---
 
-### 📚 Sto imparando...
-- Sviluppo di API REST con Node.js  
-- Ottimizzazione di sistemi distribuiti  
-- Intelligenza Artificiale applicata a progetti reali  
-
----
 
 ### 📫 Contatti  
 - 💼 [LinkedIn](https://www.linkedin.com/in/alban-haka-2a4934358/)  
